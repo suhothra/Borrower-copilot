@@ -236,9 +236,49 @@ The borrower can use the card to compare lender offers more confidently.
 
 # 10. Rules Engine
 
-The rules are separated from the user interface.
+The rules are separated from the user interface so that the borrowing logic can be reviewed and changed independently.
 
-The rule logic is documented in:
+The rules, thresholds, assumptions and reasoning are documented in:
 
-```text
-RULES.md
+[View RULES.md](RULES.md)
+
+The main borrower assessment logic is implemented separately from the UI in the application's rules engine.
+
+---
+
+# 11. What I Would Build Next
+
+Given more time, I would improve Borrower Copilot with:
+
+- More adaptive questions based on borrower responses
+- More loan products and product-specific rules
+- A more detailed EMI and tenure comparison
+- Better APR calculations based on processing fees and other charges
+- A lender offer comparison feature
+- Export or share functionality for the Borrower Negotiation Card
+- More borrower confidence indicators when information is missing
+
+---
+
+# 12. What I Would Cut
+
+I would avoid adding features that do not directly improve borrower decision-making.
+
+For example:
+
+- Unnecessary login or account creation
+- Collecting personal data that is not needed for the assessment
+- Complex charts that do not help the borrower make a decision
+- Too many questions that do not change an output
+
+The goal is to keep Borrower Copilot focused, simple and useful.
+
+---
+
+# Conclusion
+
+Borrower Copilot is designed to help Indian borrowers understand their borrowing position before approaching a lender.
+
+Instead of simply showing how much a lender might approve, the app focuses on what the borrower can safely afford.
+
+The goal is to help borrowers make more informed decisions, understand the reasoning behind the recommendation and negotiate with lenders more confidently.
