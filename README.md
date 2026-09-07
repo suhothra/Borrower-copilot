@@ -212,10 +212,8 @@ The app includes the three borrower examples provided in the Lokta challenge.
 - Requested loan: ₹8,00,000
 - Purpose: Wedding
 
-See:
+See: [Priya Runthrough](PRIYA_RUNTHROUGH.md)
 
-```text
-PRIYA_RUNTHROUGH.md
 # App Screenshots
 
 ## Borrower Assessment
@@ -233,3 +231,4 @@ PRIYA_RUNTHROUGH.md
 ## Borrower Negotiation Card
 
 <img src="screenshots/negotiation_card.png" width="250"/>
+
