@@ -214,6 +214,34 @@ The app includes the three borrower examples provided in the Lokta challenge.
 
 See: [Priya Runthrough](PRIYA_RUNTHROUGH.md)
 
+## Anita
+
+- Age:
+- Location:
+- Employment:
+- Occupation:
+- Monthly income:
+- Existing EMI:
+- Credit score:
+- Requested loan:
+- Purpose:
+
+See: [Anita Runthrough](ANITA_RUNTHROUGH.md)
+
+## Ravi
+
+- Age:
+- Location:
+- Employment:
+- Occupation:
+- Monthly income:
+- Existing EMI:
+- Credit score:
+- Requested loan:
+- Purpose:
+
+See: [Ravi Runthrough](RAVI_RUNTHROUGH.md)
+
 # App Screenshots
 
 ## Borrower Assessment
