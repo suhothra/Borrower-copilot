@@ -216,3 +216,20 @@ See:
 
 ```text
 PRIYA_RUNTHROUGH.md
+# App Screenshots
+
+## Borrower Assessment
+
+<img src="screenshots/home.png" width="250"/>
+
+## Assessment Questions
+
+<img src="screenshots/assessment.png" width="250"/>
+
+## Results
+
+<img src="screenshots/results.png" width="250"/>
+
+## Borrower Negotiation Card
+
+<img src="screenshots/negotiation_card.png" width="250"/>
