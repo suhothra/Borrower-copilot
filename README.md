@@ -198,7 +198,7 @@ The recommended product may change based on:
 
 # Three Challenge Borrowers
 
-The app includes the three borrower examples provided in the Lokta challenge.
+The app includes the three borrower examples provided in Borrower Copilot App.
 
 ## Priya
 
